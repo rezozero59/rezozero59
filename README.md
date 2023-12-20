@@ -21,7 +21,7 @@ I'm open to collaborative projects and love the idea of learning from others. If
 
 ## 📫 Contact Me
 
-- **Email**: laurentdelassus@gmail.com
+- [**Email**](laurentdelassus@gmail.com)
 - **LinkedIn**: [here](https://www.linkedin.com/in/laurent-delassus-6b736b293/)
 - **Website**: [laurentdelassus.com](https://www.laurentdelassus.com/)
 
