@@ -7,7 +7,7 @@ Hello, I'm Laurent Delassus, a junior web developer passionate about crafting in
 ## 🛠️ My Skills
 
 - **Front-End**: React, Next.js
-- **Back-End**: Node.js, Express
+- **Back-End**: Node.js, Express,MongoDB,API Rest...
 - **Languages**: JavaScript (TypeScript)
 - **Tools & More**: Git, GitHub, Heroku, Netlify, Vercel...
 
