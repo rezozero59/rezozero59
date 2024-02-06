@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hello, I'm Laurent Delassus, a junior web developer passionate about crafting innovative web solutions. Specializing in the JavaScript ecosystem, I dive into the fascinating world of React, Next.js, Node.js, Express, and TypeScript. My journey in web development is an exciting adventure where each line of code is a step towards excellence.
+Hello, I'm Laurent Delassus, a web developer passionate about crafting innovative web solutions. Specializing in the JavaScript ecosystem, I dive into the fascinating world of React, Next.js, Node.js, Express, and TypeScript. My journey in web development is an exciting adventure where each line of code is a step towards excellence.
 
 ## 🛠️ My Skills
 
