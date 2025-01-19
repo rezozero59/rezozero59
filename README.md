@@ -2,11 +2,11 @@
 
 ## 🌟 About Me
 
-Hello, I'm Laurent Delassus, a web developer passionate about crafting innovative web solutions. Specializing in the JavaScript ecosystem, I dive into the fascinating world of React, Next.js, Node.js, Express, and TypeScript. My journey in web development is an exciting adventure where each line of code is a step towards excellence.
+Hello, I'm Laurent Delassus, a web developer passionate about crafting innovative web solutions. Specializing in the JavaScript ecosystem, I dive into the fascinating world of Vue JS, Nuxt.js, Node.js, Express, and TypeScript. My journey in web development is an exciting adventure where each line of code is a step towards excellence.
 
 ## 🛠️ My Skills
 
-- **Front-End**: React, Next.js
+- **Front-End**: Vue, Nuxt.js
 - **Back-End**: Node.js, Express,MongoDB,API Rest...
 - **Languages**: JavaScript (TypeScript)
 - **Tools & More**: Git, GitHub, Heroku, Netlify, Vercel...
